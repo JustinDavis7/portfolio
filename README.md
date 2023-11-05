@@ -4,7 +4,6 @@
 
 ## Education
 - B.S., Computer Science | Western Oregon University (Sep 2019 - June 2023)
-- - Graduated Suma Cum Laude with 10/12 terms on the Presidents Honor Roll
 - Studied CCJ | Portland State University (Sep 2018 - June 2019)
 - AAOT | Chemeketa Community College ( January 2016 - June 2017)
 
