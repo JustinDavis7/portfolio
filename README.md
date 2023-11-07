@@ -11,11 +11,11 @@
 ### Projet Team++
 [Repository](https://github.com/JustinDavis7/ProjectTeamPlus)
 
+To keep it short and sweet, this project was intended to give gamers a nice website to be competitive with friends on Steam through achievement competitions, races, and the ability to receive concise update logs that would, and are, otherwise quite cumbersome to read through at times.
+
 Developed as part of the Senior Sequence at Western Oregon University over the course of six 2-week sprints, in teams of four. The other three members of the team can be seen on the front page of the repo for the project linked above. The project was coded in C# using .NET, JavaScript, and AJAX. ChatGPT was used for several parts of the project, such as summarizing game update logs that can be difficult to read and understand at best. We applied concepts such as Agile and Scrum, as well as the REST API, and used Git and Jira to manage our code and development processes. The finished project was hosted on Azure and was presented during our university’s Academic Excellence Showcase in June 2023.
 
 The project made extensive use of the Steam API, as well as some parts of the IGDB API. We struggled with getting the Steam API to cooperate, since the documentation is quite old and seems to seldomly get updated since its conception; if it ever has been updated that is. The use of IGDB was to fill a gap in the unmentioned usage limitations and issues we had with Steam, where we were continuously hitting their call limits and getting our API token muted for hours at a time. These limits are not well documented so we were never sure _exactly_ what the limits were. IGDB was very clear and enabled a large set of features to be possible that we originally thought were impossible early on.
-
-To keep it short and sweet, this project was intended to give gamers a nice website to be competitive with friends on Steam through achievement competitions, races, and the ability to receive concise update logs that would, and are, otherwise quite cumbersome to read through at times."
 
 ### Random Name Selector
 [Repository](https://github.com/JustinDavis7/my-code-playground/tree/main/Demos/Raffle%20C%23%20Desktop%20Application/Raffler)
