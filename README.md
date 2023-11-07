@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: C#, Python, JavaScript,  HTML, SQL, C++, Java, C, .NET, Bootstrap, NodeJS, Razor Pages, AJAX, Agile & SCRUM, REST API, Jira, Azure, WSL, AWS, Bash, Data Analysis & Visualization, Cloud Computing, Docker, CICD 
+#### Technical Skills: C#, Python, JavaScript, HTML, SQL, C++, Java, C, .NET, Bootstrap, NodeJS, Razor Pages, AJAX, Agile & SCRUM, REST API, Jira, Azure, WSL, AWS, Bash, Data Analysis & Visualization, Cloud Computing, Docker, BDD, TDD, CICD 
 
 ## Education
 - B.S., Computer Science | Western Oregon University (Sep 2019 - June 2023)
