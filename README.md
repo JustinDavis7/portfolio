@@ -19,8 +19,9 @@ The project made extensive use of the Steam API, as well as some parts of the IG
 
 ![Project Picture 1](/assets/img/Project Team++ - 1.png)
 ![Project Picture 2](/assets/img/Project Team++ - 2.png)
-![Project Picture 3](/assets/img/Project Team++ - 3.PNG)
 ![Project Picture 4](/assets/img/Project Team++ - 4.PNG)
+![Project Picture 3](/assets/img/Project Team++ - 3.PNG)
+
 
 ### Random Name Selector
 [Repository](https://github.com/JustinDavis7/my-code-playground/tree/main/Demos/Raffle%20C%23%20Desktop%20Application/Raffler)
