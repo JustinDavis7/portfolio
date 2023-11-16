@@ -17,10 +17,10 @@ Developed as part of the Senior Sequence at Western Oregon University over the c
 
 The project made extensive use of the Steam API, as well as some parts of the IGDB API. We struggled with getting the Steam API to cooperate, since the documentation is quite old and seems to seldomly get updated since its conception; if it ever has been updated that is. The use of IGDB was to fill a gap in the unmentioned usage limitations and issues we had with Steam, where we were continuously hitting their call limits and getting our API token muted for hours at a time. These limits are not well documented so we were never sure _exactly_ what the limits were. IGDB was very clear and enabled a large set of features to be possible that we originally thought were impossible early on.
 
-![Project Picture 1] (/assests/img/Project Team++ - 1.png)
-![Project Picture 2] (/assests/img/Project Team++ - 2.png)
-![Project Picture 3] (/assests/img/Project Team++ - 3.png)
-![Project Picture 4] (/assests/img/Project Team++ - 4.png)
+![Project Picture 1](/assests/img/Project Team++ - 1.png)
+![Project Picture 2](/assests/img/Project Team++ - 2.png)
+![Project Picture 3](/assests/img/Project Team++ - 3.png)
+![Project Picture 4](/assests/img/Project Team++ - 4.png)
 
 ### Random Name Selector
 [Repository](https://github.com/JustinDavis7/my-code-playground/tree/main/Demos/Raffle%20C%23%20Desktop%20Application/Raffler)
@@ -31,5 +31,5 @@ The issue was brought up in a random chat I was having with my father one day, t
 
 There was also a desire/requirement to have an easily printable result page, and I decided to tackle this with a dynamic HTML document that would be created and opened every time that the picker was run. It would overwrite the same HTML document in the files every time, so there was no worry of filling up a drive with countless documents.
 
-![Raffler Picture 1] (/assests/img/Raffler 1.png)
-![Raffler Picture 2] (/assests/img/Raffler 2.png)
+![Raffler Picture 1](/assests/img/Raffler 1.png)
+![Raffler Picture 2](/assests/img/Raffler 2.png)
