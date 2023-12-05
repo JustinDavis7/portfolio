@@ -8,8 +8,8 @@
 - AAOT | Chemeketa Community College ( January 2016 - June 2017)
 
 ## Projects
-### Projet Team++
-[Repository](https://github.com/JustinDavis7/ProjectTeamPlus)
+### Project Team++
+[Repository](https://github.com/SWoinowsky/ProjectTeamPlus/tree/dev)
 
 To keep it short and sweet, this project was intended to give gamers a nice website to be competitive with friends on Steam through achievement competitions, races, and the ability to receive concise update logs that would, and are, otherwise quite cumbersome to read through at times.
 
