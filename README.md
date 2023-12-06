@@ -4,7 +4,6 @@
 
 ## Education
 - B.S., Computer Science | Western Oregon University (Sep 2019 - June 2023)
-- Studied CCJ | Portland State University (Sep 2018 - June 2019)
 - AAOT | Chemeketa Community College ( January 2016 - June 2017)
 
 ## Projects
